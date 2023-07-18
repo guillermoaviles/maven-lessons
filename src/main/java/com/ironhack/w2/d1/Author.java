@@ -1,4 +1,4 @@
-package com.ironhack.w2.d1.ironhack;
+package com.ironhack.w2.d1;
 
 import java.util.List;
 
